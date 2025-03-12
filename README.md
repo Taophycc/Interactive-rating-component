@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![]
+![image](https://github.com/user-attachments/assets/feb73360-6935-4919-ad2b-fb0fc2d8a9a2)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [taophycc.github.io](https://github.com/Taophycc/Interactive-rating-component.git)
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/Interactive-rating-component/#)
 
 ## My process
 
